@@ -1,16 +1,16 @@
 {
   "type": {
-    "NEW": "",
-    "SHINY": "",
-    "CAUGHT": "",
-    "ESCAPED": "",
-    "ROAMER": "",
-    "ACHIEVE": "",
-    "QUEST": "",
-    "FOUND": "",
-    "FRONTIER": "",
-    "WANDER": "",
-    "OTHER": ""
+    "NEW": "NUOVO",
+    "SHINY": "SHINY",
+    "CAUGHT": "CATTURATO",
+    "ESCAPED": "FUGGITO",
+    "ROAMER": "VAGABONDO",
+    "ACHIEVE": "OTTENUTO",
+    "QUEST": "MISSIONE",
+    "FOUND": "TROVATO",
+    "FRONTIER": "FRONTIERA",
+    "WANDER": "PASSATO",
+    "OTHER": "ALTRO"
   },
   "earnedAchievement": "Hai ottenuto \"{{ name }}\".",
   "escapedShiny": "{{ pokemon, pokemon }} shiny è fuggito!",
